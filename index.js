@@ -26,7 +26,7 @@ const getData = async () => {
               <a target="_blank"  href=${
                 "https://" + element.website
               } class="card-link">Website</a>
-              <a href="#" class="card-link">Another link</a>
+             
           </div>
       </div>
       `;
