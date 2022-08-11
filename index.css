@@ -1,0 +1,19 @@
+#container {
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+}
+.FORM {
+  padding: 5rem;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
